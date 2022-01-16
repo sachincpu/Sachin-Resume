@@ -1,0 +1,62 @@
+# Site settings
+title: "Sachin Verma's Resume"
+description: ""
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "false"
+resume_name:                    "Sachin Verma"
+resume_title:                   "Aspiring Software Engineer"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "sach2001verma@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "9449916839"
+resume_contact_address:         "D-5/15, Shankar Hil Town,Toranagallu,Bellary"
+
+resume_header_contact_info:     "D-5/15, Shankar Hil Town,Toranagallu,Bellary • 9449916839 • sach2001verma@gmail.com"
+display_header_contact_info:    "true"
+
+resume_header_intro: "<p>Hi, I'm Sachin. A fresher but enhusiastic full software engineer currently pursuing a Bachelor's in Computer Science at the Dr. Ambedkar Insitute of Technology.I am proficient in C, C++,HTML,React Js and Javascript am currently learning Node Js. My immediate career goal is to work as a software engineer at a good company. Reach me at @sachincpu on github."
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_interests:       true
+#resume_section_recognition:     true
+#resume_section_links:           true
+#resume_section_associations:    true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/sachincpu"
+  resume_twitter_url:          "https://twitter.com/Sachin62585157"
+  # resume_dribbble_url:          ""
+  # resume_facebook_url:          ""
+  resume_linkedin_url:          "https://www.linkedin.com/in/sachinverma111/"
+  # resume_instagram_url:         ""
+  # resume_medium_url:            ""
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

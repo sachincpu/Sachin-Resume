@@ -1,0 +1,15 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Chat Application
+- project: Chat Application (Desktop Mode)
+  url: https://chatapp-41ea8.web.app/ 
+  description: Single Page chat application built using React Js. <br><br>
+              Implemented client side routing using react-routers. <br><br>
+              Used React Context APIs and Google Authentication using Firebase. 
+
+# DNA Classification
+- project: Classification of DNA using Machine Learning
+  url: https://sachincpu.github.io/DNA-Classification/
+  description: Used various ML Algorithms to classify the DNA. <br><br>
+              Identified suitable algorithm according to need and designed a website on the project.
