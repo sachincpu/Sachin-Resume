@@ -1,15 +1,17 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Chat Application
-- project: Chat Application (Desktop Mode)
-  url: https://chatapp-41ea8.web.app/ 
-  description: Single Page chat application built using React Js. <br><br>
-              Implemented client side routing using react-routers. <br><br>
-              Used React Context APIs and Google Authentication using Firebase. 
+# Disney Hotstar Clone
+- project: Disney Hotstar Clone
+  url: https://disney-clone-b8472.web.app/
+  description: Created a single page application similar to disney hotstar web app with react and firebase. <br><br>
+               Used React Context APIs and Google Authentication using Firebase. <br><br>
+               Used firebase storage and react redux to store and retrieve data. 
 
-# DNA Classification
-- project: Classification of DNA using Machine Learning
-  url: https://sachincpu.github.io/DNA-Classification/
-  description: Used various ML Algorithms to classify the DNA. <br><br>
-              Identified suitable algorithm according to need and designed a website on the project.
+# Pest identification and Control
+- project: Pest identification and Control using Machine Learning
+  url: https://drive.google.com/file/d/1VK_DMcTo1UgvMlvCFIFRoQXl3FuH8uDT/view
+  description: Built an android application “KISAAN” which can detect pests in the field and display their control measures. <br><br>
+               Results are shown in augmented reality form. <br><br>
+               Accuracy above 90 percent. Also presented a paper in the ‘International Conference on Edge Computing and
+               Applications’.
